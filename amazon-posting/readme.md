@@ -14,7 +14,7 @@
    
 *throttlinng* হচ্ছে দুইটা api রিকুয়েস্টের মধ্যবর্তী সময় । আমাদের DGHippo ওয়েবসাইটে *throttlinng* ৪ (চার) সেকেন্ড দেওয়া আছে । খুব শীঘ্রই আমরা আপডেট আনতে যাচ্ছি যেন আপনি আপনার এপি আই রিকুয়েস্টের থ্রটলিং টাইম নিয়ন্ত্রন করতে পারেন । 
 
-আরো বিস্তারিত পড়তে পারেনঃ [Amazon Api Rate](https://webservices.amazon.com/paapi5/documentation/troubleshooting/api-rates.html)
+আরো বিস্তারিত পড়তে পারেনঃ [https://webservices.amazon.com/paapi5/documentation/troubleshooting/api-rates.html](https://webservices.amazon.com/paapi5/documentation/troubleshooting/api-rates.html)
 
 ---
 
