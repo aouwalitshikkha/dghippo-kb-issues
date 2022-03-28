@@ -3,7 +3,7 @@
 
 এমাজন আর্টিকেল অটোমেশন পোষ্টিং এর সময় উদ্ভুত বিভিন্ন প্রশ্ন ও তার উত্তর এখানে চেক করুন । প্রতিনিয়ত ফেসবুক পেজ, মেসেঞ্জারে আসা প্রশ্ন গুলাই এখানে উত্তর যুক্ত করা হয়েছে । 
 
-
+---
 #### সমস্যঃ Request Limit Reach, Try increasing throttlinng or wait before trying again
 
 **সমাধান:** এই সমস্যার কারন হল এমাজন আপনার এপি আই লিমিট করে দিয়েছে । এমাজনের এপি আই লিমিট করার কারন বুঝার জন্য নিচের অংশটুকু দেখতে পারেন । 
@@ -16,5 +16,5 @@
 
 আরো বিস্তারিত পড়তে পারেনঃ [Amazon Api Rate](https://webservices.amazon.com/paapi5/documentation/troubleshooting/api-rates.html)
 
-
+---
 
